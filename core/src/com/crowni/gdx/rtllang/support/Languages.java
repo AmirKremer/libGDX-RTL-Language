@@ -6,7 +6,7 @@ package com.crowni.gdx.rtllang.support;
 
 public enum Languages {
 
-    ENGLISH(32, 160),
+    ENGLISH(1, 160),
     ARABIC_NUMERIC(1632, 1641),
     EXTENDED_NUMERIC(1776, 1785);
 
